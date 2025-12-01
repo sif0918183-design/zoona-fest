@@ -1,6 +1,7 @@
 {
   "name": "ZOONA App",
   "short_name": "ZOONA",
+  "description": "المتجر الإلكتروني الرائد في السودان - تسوق أحدث المنتجات بأفضل الأسعار",
   "start_url": "/",
   "display": "standalone",
   "display_override": ["window-controls-overlay"],
