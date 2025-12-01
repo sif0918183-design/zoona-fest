@@ -1,0 +1,21 @@
+{
+  "name": "ZOONA App",
+  "short_name": "ZOONA",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay"],
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF3B3B",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/hJLQXkm6/T401764575713340.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/0Rqs4xhD/T401764426388711.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
